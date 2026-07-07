@@ -1,0 +1,10 @@
+{
+  "name": "PlacementAI",
+  "description": "An AI-powered Placement Preparation Platform simulating Aptitude, Coding, Technical, Group Discussion, and HR rounds with detailed performance analytics and report generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
